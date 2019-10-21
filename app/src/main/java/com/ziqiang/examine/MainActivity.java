@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //Set onClickListener
         button1.setOnClickListener(this);
         button2.setOnClickListener(this);
+
     }
 
     public void onClick(View view){
